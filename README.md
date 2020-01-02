@@ -1,4 +1,4 @@
-# Gendered Pronoun Resolution 🥈 | `Silver Medal` | 26th place out of 838 competitiors. 
+## Gendered Pronoun Resolution 🥈 | `Silver Medal` | 26th out of 838 
 
 Can you help end gender bias in pronoun resolution?
 ==============================
@@ -9,7 +9,7 @@ Unfortunately, recent studies have suggested gender bias among state-of-the-art 
 
 
 
-Team Members: 
+**Team Members: 
 
  [Wayward Artisan](https://www.kaggle.com/taniaj)
 
@@ -17,8 +17,6 @@ Team Members:
               
  [Ivan Panshin](https://www.kaggle.com/ivanpan)
               
-
-Pair pronouns to their correct entities
 
 1. We didn't manage to fine-tune Bert, but still had a couple of ideas that worked pretty good.
 
